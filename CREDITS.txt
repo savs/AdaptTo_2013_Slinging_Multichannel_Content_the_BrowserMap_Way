@@ -1,0 +1,13 @@
+reveal.js credits
+=================
+
+MIT licensed
+
+Copyright (C) 2013 Hakim El Hattab, http://hakim.se
+
+Talk credits
+============
+
+Talk is copyright Andrew Savory.
+
+Licensed under the Apache License, Version 2.0
